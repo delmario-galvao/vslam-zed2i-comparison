@@ -13,8 +13,10 @@ Launch file and setup instructions for using CuVSLAM with the ZED 2i in the Isaa
 
 ## Videos
 
+## Videos
+
 ### CuVSLAM + OptiTrack
-[![CuVSLAM demo](media/cuvslam-thumb.png)](media/projeto-cuvslam-video-final.mp4)
+![CuVSLAM demo](media/cuvslam-demo.gif)
 
 ### ORB-SLAM3 + OptiTrack
-[![ORB-SLAM3 demo](media/orbslam-thumb.png)](media/projeto-orb-slam-video-final.mp4)
+![ORB-SLAM3 demo](media/orbslam-demo.gif)
