@@ -1,0 +1,11 @@
+build/
+lib/
+*.osa
+*.db
+runs/
+*.bag
+*.db3
+__pycache__/
+*.pyc
+.DS_Store
+.vscode/
