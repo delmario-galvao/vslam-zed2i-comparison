@@ -11,7 +11,6 @@ Scripts and instructions for using ORB-SLAM3 with the ZED 2i, including online e
 
 Launch file and setup instructions for using CuVSLAM with the ZED 2i in the Isaac ROS ecosystem.
 
-## Videos
 
 ## Videos
 
