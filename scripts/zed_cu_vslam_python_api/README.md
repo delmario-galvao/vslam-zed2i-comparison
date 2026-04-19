@@ -1,4 +1,4 @@
-# cuVSLAM with ZED 2i (Offline Stereo)
+# cuVSLAM Python API
 
 This folder contains a custom Python script to run **cuVSLAM** with a ZED 2i dataset in **stereo-only offline mode**, using pre-recorded images (`left/`, `right/`) and timestamps.
 
@@ -49,7 +49,7 @@ runs/<run_name>/
 python3 track_zed.py
 ```
 
-![CuVSLAM image api](media/cuvslam-python-api.png)
+![CuVSLAM image api](../../media/cuvslam-python-api.png)
 
 ---
 

@@ -74,7 +74,7 @@ If your `stereo_zed2i.cc` uses `std::filesystem`, it may also be necessary to fo
 ./Examples/Stereo/stereo_dataset_zed Vocabulary/ORBvoc.txt runs/<run_name>/ZED2i_runtime.yaml runs/<run_name>
 ```
 
-![ORBSLAM image](media/orb-slam.png)
+![ORBSLAM image](../../media/orb-slam.png)
 
 ## Notes
 

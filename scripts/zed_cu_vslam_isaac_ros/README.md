@@ -70,4 +70,4 @@ interface_specs_file:=${ISAAC_ROS_WS}/isaac_ros_assets/isaac_ros_visual_slam/zed
 rviz2 -d $(ros2 pkg prefix isaac_ros_visual_slam --share)/rviz/default.cfg.rviz
 ```
 
-![CuVSLAM image](media/cuvslam-isaac-ros.png)
+![CuVSLAM image](../../media/cuvslam-isaac-ros.png)
