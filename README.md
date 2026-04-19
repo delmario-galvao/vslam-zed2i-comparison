@@ -7,15 +7,17 @@ This repository contains scripts, configuration files, and practical setup notes
 
 Scripts and instructions for using ORB-SLAM3 with the ZED 2i, including online execution with the camera and offline replay from recorded runs.
 
-## [CuVSLAM](scripts/zed_cu_vslam/README.md)
+## [CuVSLAM](scripts/zed_cu_vslam_isaac_ros/README.md)
 
 Launch file and setup instructions for using CuVSLAM with the ZED 2i in the Isaac ROS ecosystem.
+
+## [CuVSLAM](scripts/zed_cu_vslam_isaac_ros/README.md)
+
+Launch file and setup instructions for using CuVSLAM with the ZED 2i using Python API.
 
 
 ## Videos
 
-### CuVSLAM + OptiTrack
-![CuVSLAM demo](media/cuvslam-demo.gif)
+![CuVSLAM demo](media/cuvslam-python-api-demo.gif)
 
-### ORB-SLAM3 + OptiTrack
 ![ORB-SLAM3 demo](media/orbslam-demo.gif)
