@@ -11,7 +11,7 @@ Scripts and instructions for using ORB-SLAM3 with the ZED 2i, including online e
 
 Launch file and setup instructions for using CuVSLAM with the ZED 2i in the Isaac ROS ecosystem.
 
-## [CuVSLAM Python API](scripts/zed_cu_vslam_isaac_ros/README.md)
+## [CuVSLAM Python API](scripts/zed_cu_vslam_python_api/README.md)
 
 Launch file and setup instructions for using CuVSLAM with the ZED 2i using Python API.
 
